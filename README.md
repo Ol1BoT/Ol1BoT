@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey There 👋
+
+- 🔭 I’m currently working on Various Private Repos for work
+- 🌱 I’m currently learning Go
 
 <!--
 **Ol1BoT/Ol1BoT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
