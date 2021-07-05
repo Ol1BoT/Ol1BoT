@@ -21,7 +21,9 @@ Experience (2+ years) using:
 Learning:
 
 - Programming (Go)
-- React (Lazily)
+- React
+
+On Hold:
 - Protocol Buffers / gRPC
 
 <!--
