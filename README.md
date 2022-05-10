@@ -13,15 +13,10 @@ Experience (2+ years) using:
 
 - Reporting and Visualisations (SSRS, Crystal Reports & PowerBI)
 - Databases (Postgres)
-- Programming (Python, JavaScript/TypeScript)
+- Programming (Python, JavaScript/TypeScript, Go)
 - Cloud Providers (AWS)
 - Containers (Docker, ECS)
-- Web (HTML, CSS, Vue)
-
-Learning:
-
-- Programming (Go)
-- React
+- Web (HTML, CSS, Vue, React)
 
 On Hold:
 - Protocol Buffers / gRPC
