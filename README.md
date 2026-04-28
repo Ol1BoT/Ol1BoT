@@ -1,6 +1,7 @@
 ## Hey There 👋
 
-🚀Full-Stack Engineer.
+Dual Citizen, Senior Engineer.
+🇬🇧🇦🇺
 
 <!--
 **Ol1BoT/Ol1BoT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
